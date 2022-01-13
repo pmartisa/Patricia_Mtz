@@ -1,6 +1,6 @@
 Hi there 👋
 
-After 3+ years covering East Africa and Israel-Palestine for Agencia EFE, the major multimedia news agency in Spanish language and the world's fourth largest wire service, in 2021 I embarked myself in the process of learning how to code in order to write conclusive, impactful data-driven stories. 
+After 3+ years covering East Africa and Israel-Palestine for Agencia EFE, the major multimedia news agency in Spanish language and the world's fourth largest wire service, in 2021 I embarked myself in the process of learning how to code and mine databases in order to write conclusive, impactful data-driven stories. 
 
 In order to do a different kind of journalism. 
 
